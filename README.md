@@ -30,10 +30,10 @@ Click the button and receive your lucky numbers instantly! ✨
 
 ## 📁 Project Structure
 
-├── index.html → Main HTML page
-├── style.css → Styling and layout
-├── index.js → JavaScript logic
-├── number-blocks.png → Preview image + favicon
+index.html → Main HTML page
+style.css → Styling and layout
+index.js → JavaScript logic
+number-blocks.png → Preview image + favicon
 
 ---
 
