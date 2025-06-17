@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: rgb(253, 246, 240);
+  text-align: center;
+  padding-top: 100px;
+  color: rgb(92, 75, 60);
+}
+
+#myButton {
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: rgb(242, 211, 177);
+  border: none;
+  cursor: pointer;
+}
+
+#myButton:hover {
+  background: rgb(230, 185, 140);
+}
+
+.results {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.result {
+  font: bold 28px Arial, sans-serif;
+  padding: 10px 20px;
+  background: rgb(255, 241, 230);
+  color: rgb(92, 75, 60);
+  border: 2px solid rgb(228, 201, 164);
+  border-radius: 12px;
+}
